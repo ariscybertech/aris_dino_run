@@ -10,12 +10,6 @@ A 2D infinite side scroller made using [Flame](https://flame-engine.org/) engine
 
 ![Hit](branding/hit.gif)
 
-## Downloads
-
-- [Google Play](https://play.google.com/store/apps/details?id=com.nobs.dino_run)
-
-- [Itch.io](https://ufrshubham.itch.io/dino-run)
-
 ## Build steps
 
 ```bash
